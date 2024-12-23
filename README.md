@@ -18,6 +18,6 @@
 
 # Контакты
 
-Приложение BellunaConnect разработано OOO "Максима Электроникс"
+Приложение BellunaConnect разработано OOO "Максима Электроникс"  
 e-mail: mmaxel@mail.ru  
 web: www.maxima-el.ru  
